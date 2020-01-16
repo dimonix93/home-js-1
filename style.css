@@ -1,0 +1,76 @@
+#but1{
+    background-color: blue;
+    width: 150px;
+    height: 100px;
+}
+#but2{
+    background-color: blue;
+    width: 150px;
+    height: 100px;
+}
+#but3{
+    background-color: blue;
+    width: 150px;
+    height: 100px;
+}
+.allbut{
+    display: flex;
+    justify-content: space-around;
+
+}
+#but4{
+    background-color: red;
+    width: 150px;
+    height: 100px;
+}
+.allbut2{
+    margin-top: 10%;
+    background-color: chartreuse;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 100%;
+}
+#but4{
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(18, 224, 139);
+    width: 250px;
+    height: 200px;
+}
+#but5{
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(18, 224, 139);
+    width: 250px;
+    height: 200px;
+}
+#but6{
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(18, 224, 139);
+    width: 250px;
+    height: 200px;
+}
+#but1{
+    background-color: blue;
+    width: 150px;
+    height: 100px;
+}
+#but2{
+    background-color: blue;
+    width: 150px;
+    height: 100px;
+}
+#but3{
+    background-color: blue;
+    width: 150px;
+    height: 100px;
+}
+.allbut3{
+    display: flex;
+    justify-content: space-around;
+}
+  
+
+    
